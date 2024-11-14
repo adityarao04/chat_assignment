@@ -1,0 +1,10 @@
+.chatscreen_container{
+    display: flex;
+    gap: 1rem;
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+    max-height: 80vh;
+    overflow-y: scroll;
+    margin-top: 1rem;
+}

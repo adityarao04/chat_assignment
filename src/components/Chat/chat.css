@@ -1,0 +1,39 @@
+.sender{
+    max-width: 36vw;
+    background-color: lightgray;
+    padding: 8px;
+    border: 1px;
+    border-radius: 13px;
+}
+
+
+.receiver{
+    max-width: 36vw;
+    padding: 8px;
+    border: 1px;
+    border-radius: 13px;
+    background-color: #3737a6;
+    color: white;
+
+}
+
+
+.receiver_container{
+    display: flex;
+    justify-content: flex-end;
+    padding: 0 1rem;
+}
+
+
+.sender_container{
+    padding: 0 1rem;
+}
+
+.timestamp{
+    font-size: 9px;
+    margin-top: 3px;
+}
+
+.receiver_wrapper{
+
+}
